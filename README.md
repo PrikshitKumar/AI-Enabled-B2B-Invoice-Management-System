@@ -53,6 +53,7 @@ amount by the due date. The date on which a customer clears the payment for an i
 ## Responsibilities: 
 ● Java  
 ● Servelets  
+● Database Management (MySQL)  
 ● Tomcat Configuration  
 ● App Testing  
 ● Little bit HTML + CSS  
