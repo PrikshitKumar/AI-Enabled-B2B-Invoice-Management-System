@@ -40,6 +40,7 @@ amount by the due date. The date on which a customer clears the payment for an i
 ● MySQL  
 ● Java  
 ● Servelets  
+● Python  
 ● Tomcat  
   
 ## Softwares Used:  
@@ -47,6 +48,7 @@ amount by the due date. The date on which a customer clears the payment for an i
 ● SQLYog  
 ● Eclipse  
 ● VS Code  
+● Jupyter  
   
 ## Responsibilities: 
 ● Java  
