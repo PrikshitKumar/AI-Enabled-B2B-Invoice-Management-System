@@ -47,3 +47,10 @@ amount by the due date. The date on which a customer clears the payment for an i
 ● SQLYog  
 ● Eclipse  
 ● VS Code  
+  
+## Responsibilities: 
+● Java  
+● Servelets  
+● Tomcat Configuration  
+● App Testing  
+● Little bit HTML + CSS  
