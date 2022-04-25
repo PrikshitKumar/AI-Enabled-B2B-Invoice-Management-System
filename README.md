@@ -39,20 +39,20 @@ amount by the due date. The date on which a customer clears the payment for an i
 ● JDBC  
 ● MySQL  
 ● Java  
-● Servelets  
+● Servlets  
 ● Python  
 ● Tomcat  
   
-## Softwares Used:  
-● MySQL  
+## Softwares Used:   
 ● SQLYog  
+● MySQL Workbench 8.0  
 ● Eclipse  
 ● VS Code  
-● Jupyter  
+● Jupyter Notebook  
   
 ## Responsibilities: 
 ● Java  
-● Servelets  
+● Servlets  
 ● Database Management (MySQL)  
 ● Tomcat Configuration  
 ● App Testing  
